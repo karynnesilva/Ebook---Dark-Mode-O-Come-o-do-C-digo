@@ -9,8 +9,8 @@ Ebook criado com utilizando as ferramentas de Inteligência Artificial e suas fa
 # Dark Mode : O Começo do Código 
 - Aprenda a usar a IA para começar sua jornada no mundo da programação.
 
-## Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-- Abaixo está listado as Inteligências Artificiais utilizadas para gerar o podcast 
+## Projeto com o objetivo de gerar um ebook utilizando ferramentas de IA através de prompts mais trabalhado.
+- Abaixo está listado as Inteligências Artificiais utilizadas para gerar o ebook 
 
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/)
