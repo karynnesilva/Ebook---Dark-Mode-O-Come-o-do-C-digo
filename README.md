@@ -34,4 +34,7 @@ Gemini：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Quero que você crie uma imagem com tamanho e resolução para eu colocar em um arquivo a4, que tem como o tema "Dark Mode: O Começo do Código", inspirado na série Dark e Stranger Things, quero que tenha elementos que remetam a esta série, seja criativo, o ebook será voltado para o público jovem, que nunca gerou códigos, possam apreender a gerar do zero e como funciona.|
 
+
+📄 [Baixar o PDF completo](./karynnesilva/Ebook---Dark-Mode-O-Come-o-do-C-digo/Dark Mode - O Começo do Código.pdf)
+
 ⌨️ com 💜 por Karynne Silva
