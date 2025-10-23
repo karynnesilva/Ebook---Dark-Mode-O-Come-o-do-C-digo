@@ -2,7 +2,7 @@
 Ebook criado com utilizando as ferramentas de Inteligência Artificial e suas facilidades
 
 <p align="center">
-<img src="https://github.com/karynnesilva/Ebook---Dark-Mode-O-Come-o-do-C-digo/blob/main/Ebook.png"    width="600"
+<img src="Ebook.png"    width="600"
 />
 </p>
 
