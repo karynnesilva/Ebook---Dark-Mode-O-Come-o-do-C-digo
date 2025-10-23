@@ -37,7 +37,7 @@ Gemini：
 
 
 
-📄 [Baixar o PDF completo](./karynnesilva/Ebook---Dark-Mode-O-Come-o-do-C-digo/Dark Mode - O Começo do Código.pdf)
+📄 [Baixar o PDF completo](Dark Mode-O Começo do Código.pdf)
 
 
 
